@@ -13,9 +13,9 @@
 | 4 | eSoft | [esoft.my](https://www.esoft.my/) | [eSoft.my](https://www.facebook.com/eSoft.my/) | 没读到 | [eSoftSQL](https://www.xiaohongshu.com/user/profile/6302fe30000000000f004a8e) | 1K+ |
 | 5 | WiSoft | [sql-accounting.com](https://sql-accounting.com/) | [wisoftsolution](https://www.facebook.com/wisoftsolution) | 9,796 | 未提供 | — |
 | 6 | EIST | [eistsystem.com](https://www.eistsystem.com/) | [eistsystem](https://www.facebook.com/eistsystem/) | 没读到 | [E-invoice领路人SQL-Eist](https://www.xiaohongshu.com/user/profile/659b8ece000000001f012b31/) | 1K+ |
-| 7 | Alpine | [alpinesoftware.com.my](https://alpinesoftware.com.my/) | [AlpineSQL](https://www.facebook.com/AlpineSQL)（Bryan 提供） | 16,986 | 未提供 | — |
+| 7 | Alpine | [alpinesoftware.com.my](https://alpinesoftware.com.my/) | [AlpineSQL](https://www.facebook.com/AlpineSQL)（Bryan 提供） | 16,986 | [SQL Account Einvoice - Alpine](https://www.xiaohongshu.com/user/profile/5e99d36e0000000001001c95)（Bryan 提供） | 1K+ |
 | 8 | GoLink | [golink.com.my](https://www.golink.com.my/) | [golinksql](https://www.facebook.com/golinksql) | 没读到 | [GOLINK](https://www.xiaohongshu.com/user/profile/63759adc000000001f01ba10) | 1K+ |
-| 9 | MyPoint | [sqlaccountingsoftware.com.my](https://www.sqlaccountingsoftware.com.my/) | [SQLAccountingSoftwareGST](https://www.facebook.com/SQLAccountingSoftwareGST/) | 5,196 | 未提供 | — |
+| 9 | MyPoint | [sqlaccountingsoftware.com.my](https://www.sqlaccountingsoftware.com.my/) | [SQLAccountingSoftwareGST](https://www.facebook.com/SQLAccountingSoftwareGST/) | 5,196 | [MyPoint鸟神软件](https://www.xiaohongshu.com/user/profile/65eadca600000000050080a3)（Bryan 提供） | 1K+ |
 | 10 | Agile | [sql-account.my](https://sql-account.my/) | [agile.my](https://www.facebook.com/agile.my) | 395 | 未提供 | — |
 | 11 | Emmanu | [sqlaccount.biz](https://www.sqlaccount.biz/) | [el.com.my](https://www.facebook.com/el.com.my) | 2,402 | [Joey账单系统管家](https://www.xiaohongshu.com/user/profile/665202150000000003030818) | 1K+ |
 
@@ -29,4 +29,4 @@
 
 ## 待补
 
-WiSoft、Alpine、MyPoint、Agile 的小红书；eSoft、EIST、GoLink 的 FB 粉丝数
+WiSoft、Agile 的小红书；eSoft、EIST、GoLink 的 FB 粉丝数
